@@ -1,11 +1,11 @@
 ### Lab 3: Deploying the Algonquin Pet Store on Azure
 
-1. Please find below the YouTube video link:
+1. #### Please find below the YouTube video link:
 
 - https://www.youtube.com/watch?v=udXWYah61F8
 
 
-2. Reflection Questions:
+2. #### Reflection Questions:
 
 i. **What challenges did you encounter when configuring environment variables in the GitHub Actions workflow?**
     I didn't face a challenge or maybe I didn't understand the question correctly, sorry.
@@ -16,7 +16,7 @@ ii. **How does deploying microservices on Azure Web App Service differ from runn
 iii. **Why is it important to use environment variables for configurations in a cloud environment?**
     Because it adheres to the 12-Factor App, it separates configuration from code, allowing the system to isolate sensitive information from source control. This will ensure that the settings can be changed instantly via the Azure Portal without requiring the application code to be rebuilt. So, using environment variables enables runtime portability and enhanced security.
 
-3. Links to the three service repositories:
+3. #### Links to the three service repositories:
 
 - https://github.com/RamyMaarouf/order-service.git
 - https://github.com/RamyMaarouf/product-service.py.git
