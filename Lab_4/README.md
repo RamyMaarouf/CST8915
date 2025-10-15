@@ -1,4 +1,4 @@
-### Lab 3: Deploying the Algonquin Pet Store on Azure
+### Lab 4: Deploying the Algonquin Pet Store on Azure
 
 1. #### Please find below the YouTube video link:
 
