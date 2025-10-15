@@ -1,4 +1,4 @@
-### Lab 4: Deploying the Algonquin Pet Store on Azure
+### Lab 4: Introduction to Docker
 
 1. #### Please find below the YouTube video link:
 
