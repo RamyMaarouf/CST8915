@@ -2,7 +2,7 @@
 
 1. #### Please find below the YouTube video link:
 
-- https://www.youtube.com/watch?v=GRcQAsAvUtE
+- [https://www.youtube.com/watch?v=GRcQAsAvUtE]
 
 2. #### Added txt/md file showing the tests done for the kubectl commands in the provided Kubectl-Cheat-Sheet.md file.
 
