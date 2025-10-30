@@ -4,7 +4,7 @@
 
 - https://www.youtube.com/watch?v=EspQ8gfEGhY
 
-2. #### Added txt/md file showing the tests done for the kubectl commands in the provided Kubectl-Cheat-Sheet.md file.
+2. #### Added txt/md file in the repo showing the tests done for the kubectl commands in the provided Kubectl-Cheat-Sheet.md file.
 
 3. The microservices application achieves single-IP access for all its backend components through path-based routing managed by NGINX.
 - Single Entry Point: The K8S deployment exposes only the store-front application via a LoadBalancer service type. This is the only component in the cluster that receives a public, and external IP from Azure.
